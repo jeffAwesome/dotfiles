@@ -128,6 +128,7 @@ let g:html_indent_tags = 'li\|p'
 set splitbelow
 set splitright
 
+
 " Quicker window movement
 nnoremap <C-j> <C-w>j
 nnoremap <C-k> <C-w>k
